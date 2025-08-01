@@ -10,8 +10,8 @@ military phonetic spelling.
 **Case-Insensitive:** Accepts both uppercase and lowercase letters in the input.  
 **Simple Build System:** A straightforward `Makefile` to compile, install, and clean 
 the project.  
-**Standalone* Executable:** The program compiles into a single executable named
-* `/usr/local/bin/zulu`.
+**Standalone* Executable:** The program compiles into a single executable named 
+`/usr/local/bin/zulu`.
 
 ## How to Build and Run
 
@@ -35,7 +35,15 @@ argument.
 
 **Output:**
 
-``` Phonetic spelling for 'gemini' is: Golf Echo Mike India November India ```
+```
+Phonetic spelling for 'chicken' is:
+Charlie
+Hotel
+India
+Charlie
+Kilo
+Echo
+November
 
 ### Installation
 
@@ -49,22 +57,13 @@ the path.
 
 ```sh zulu hello ```
 
-## File Structure
-
-* `src/main.c`: Contains the `main` function and the core program logic for
-* parsing input and calling the phonetic translation function.  `src/data.c`:
-* Defines the constant array of strings for the phonetic alphabet.
-* `src/include/data.h`: The header file that declares the phonetic alphabet
-* array for use in `main.c`.  `Makefile`: The build script for compiling,
-* installing, and cleaning the project.
-
 ## Credits
 
-* **A chap from Spain** that asked me for my email and I was unable to do the 
-Golf,Echo,Tararira thingie.  
-**My wife** for helping me compile the list of military phonetics that she 
+* **A chap from Spain** that asked me for my email and to communicate it in 
+military phonetics via phone. Which didn't go well...
+  
+* **My wife** for helping me compile the list of military phonetics that she 
 learned in the Scouts. 
-
 
 ## License
 
