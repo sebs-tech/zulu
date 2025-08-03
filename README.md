@@ -60,7 +60,8 @@ the path.
 ## Credits
 
 * **A chap from Spain** that asked me for my email and to communicate it in 
-military phonetics via phone. Which didn't go well...
+military phonetics via phone. Which was supposed to go Sierra, Echo, Bravo, Sierra...
+But instead it went: Senegal, Ectoplasm, Bastards, Sumatra... Had to do something about it. 
   
 * **My wife** for helping me compile the list of military phonetics that she 
 learned in the Scouts. 
