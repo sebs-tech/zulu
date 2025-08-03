@@ -7,11 +7,10 @@
 
 * **Phonetic Translation:** Converts a given word from the command line into its
 military phonetic spelling.  
-**Case-Insensitive:** Accepts both uppercase and lowercase letters in the input.  
-**Simple Build System:** A straightforward `Makefile` to compile, install, and clean 
+* **Case-Insensitive:** Accepts both uppercase and lowercase letters in the input.  
+* **Simple Build System:** A straightforward `Makefile` to compile, install, and clean 
 the project.  
-**Standalone* Executable:** The program compiles into a single executable named 
-`/usr/local/bin/zulu`.
+* **Standalone* Executable:** The program compiles into a single executable named `/usr/local/bin/zulu`.
 
 ## How to Build and Run
 
