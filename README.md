@@ -30,7 +30,7 @@ To compile the program, navigate to the project's root directory and run the
 After building, you can run the program by providing a word as a command-line
 argument.
 
-```sh ./zulu gemini ```
+```sh ./zulu chicken ```
 
 **Output:**
 
