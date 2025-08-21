@@ -7,11 +7,10 @@
 
 * **Phonetic Translation:** Converts a given word from the command line into its
 military phonetic spelling.  
-**Case-Insensitive:** Accepts both uppercase and lowercase letters in the input.  
-**Simple Build System:** A straightforward `Makefile` to compile, install, and clean 
+* **Case-Insensitive:** Accepts both uppercase and lowercase letters in the input.  
+* **Simple Build System:** A straightforward `Makefile` to compile, install, and clean 
 the project.  
-**Standalone* Executable:** The program compiles into a single executable named 
-`/usr/local/bin/zulu`.
+* **Standalone* Executable:** The program compiles into a single executable named `/usr/local/bin/zulu`.
 
 ## How to Build and Run
 
@@ -31,7 +30,7 @@ To compile the program, navigate to the project's root directory and run the
 After building, you can run the program by providing a word as a command-line
 argument.
 
-```sh ./zulu gemini ```
+```sh ./zulu chicken ```
 
 **Output:**
 
@@ -61,7 +60,8 @@ the path.
 ## Credits
 
 * **A chap from Spain** that asked me for my email and to communicate it in 
-military phonetics via phone. Which didn't go well...
+military phonetics via phone. Which was supposed to go Sierra, Echo, Bravo, Sierra...
+But instead it went: Senegal, Ectoplasm, Bastards, Sumatra... Had to do something about it. 
   
 * **My wife** for helping me compile the list of military phonetics that she 
 learned in the Scouts. 
